@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+.venv/
+env/
+stud/
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
